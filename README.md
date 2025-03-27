@@ -1,4 +1,3 @@
-# espacio-official.github.io
 # Espacio
 
 ## Authors
