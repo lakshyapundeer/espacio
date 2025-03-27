@@ -1,0 +1,57 @@
+<div class="card">
+              <img src="" style="width:100%">
+              <div class="container44">
+                <center><img src="Images/test1.png" Width="85px"></center>
+                <center>
+                  <h4><b> Joan Centrella</b></h4>
+                </center>
+                <p>
+                  <font size="2px"> Excellent lab conditions along with all required equipments and lab assistances with
+                    spacious working envirnoment</font>
+                </p>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div class="card">
+              <img src="" style="width:100%">
+              <div class="container44">
+                <center><img src="Images/test2.jpg" Width="40%"></center>
+                <center>
+                  <h4><b> Ellen Stoffan</b></h4>
+                </center>
+                <p>
+                  <font size="2px"> Cooperative staff and experts with high experience and knowledge along with positive
+                    and humble nature. </font>
+                </p>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div class="card">
+              <img src="" style="width:100%">
+              <div class="container44">
+                <center><img src="Images/test3.jpg" Width="55%"></center>
+                <center>
+                  <h4><b>Tapan Misra </b></h4>
+                </center>
+                <p>
+                  <font size="2px">Amazed by the financial expenditure in the field of space exploration and resarch.
+                    impressed by the home like envirnoment. </font>
+                </p>
+              </div>
+            </div>
+          <td>
+            <div class="card">
+              <img src="" style="width:100%">
+              <div class="container44">
+                <center><img src="Images/test4.jpg" Width="40%"></center>
+                <center>
+                  <h4><b>B.N Suresh </b></h4>
+                </center>
+                <p>
+                  <font size="2px">Expertise and technician were approchable ang gave the best suiting advice. </font>
+                </p>
+              </div>
+            </div>
+          </td>

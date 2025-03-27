@@ -1,0 +1,31 @@
+.ab1{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-image:url('Images/.jpg');
+    background-size: 1400px 300px;
+    border-width: 100%;
+    color:lightgrey;
+    background-repeat: no-repeat;
+    background-color: black;
+
+}
+   .whyus{
+   padding-left: 200px;
+    padding-right: 200px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-image:url('Images/.jpg');
+    background-size: 1400px 300px;
+    border-width: 100%;
+    color:lightgrey;
+    background-repeat: no-repeat;
+    background-color: black;
+    margin-top: -5px;
+ }
+ .whyus-heading{
+     text-align: center;
+     color:white;
+     font-size: 50px ;
+ }
